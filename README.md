@@ -37,11 +37,12 @@ Now I'm addicted to code and I can't stop learning more and more, does that even
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://togostyle.github.io/PersonalWebsite/">![WebPersonal](https://img.shields.io/badge/Web_And_CV-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tonivieirarubio-informatico/">![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;&nbsp;
-<a href="mailto:tvr9869@gmail.com">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;&nbsp;
+  <a href="https://togostyle.github.io/PersonalWebsite/"><img src="https://img.shields.io/badge/Web_Personal-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Web Personal"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tonivieirarubio-informatico/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:tvr9869@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
 ---
 
 Credit: [ToniVR](<[https://github.com/KevinPatel04](https://github.com/TogoStyle/)>)
