@@ -6,7 +6,7 @@
 Now I'm addicted to code and I can't stop learning more and more, does that even happen to you too?😜</p>
 
 ![Blue And Green Professional Technology LinkedIn Banner](https://github.com/TogoStyle/TogoStyle/assets/72858333/da45c5ae-54b0-453a-a3cb-d39686a5f314)
-
+<div align="center">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,3 +45,4 @@ Now I'm addicted to code and I can't stop learning more and more, does that even
 ---
 
 Credit: [ToniVR](<[https://github.com/KevinPatel04](https://github.com/TogoStyle/)>)
+</div>
