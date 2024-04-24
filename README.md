@@ -1,11 +1,11 @@
-<div align="center">
+Bann<div align="center">
 <h1 align="center">Hola, soy Toni 👋</h1>
 </div>
 
 <p align="center" width="150px">I have just kickstarted my career as a software developer after completing my undergraduation in the year 2022.
 Now I'm addicted to code and I can't stop learning more and more, does that even happen to you too?😜</p>
 
-![Blue And Green Professional Technology LinkedIn Banner](https://github.com/TogoStyle/TogoStyle/assets/72858333/da45c5ae-54b0-453a-a3cb-d39686a5f314)
+![Banner](https://github.com/TogoStyle/TogoStyle/assets/72858333/40b1e7a4-e0b7-4387-9c16-7a8883dd76fc)
 <div align="center">
 
 ### 🛠 &nbsp;Tech Stack
