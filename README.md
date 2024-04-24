@@ -1,5 +1,5 @@
 Bann<div align="center">
-<h1 align="center">Hola, soy Toni 👋</h1>
+<h1 align="center">Hi, I'm Toni 👋</h1>
 </div>
 
 <p align="center" width="150px">I have just kickstarted my career as a software developer after completing my undergraduation in the year 2022.
