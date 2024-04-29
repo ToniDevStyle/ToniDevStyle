@@ -5,8 +5,9 @@ Bann<div align="center">
 <p align="center" width="150px">I have just kickstarted my career as a software developer after completing my undergraduation in the year 2022.
 Now I'm addicted to code and I can't stop learning more and more, does that even happen to you too?😜</p>
 
-![Banner](https://github.com/TogoStyle/TogoStyle/assets/72858333/40b1e7a4-e0b7-4387-9c16-7a8883dd76fc)
+![Banner](https://github.com/TogoStyle/TogoStyle/assets/72858333/e1fa1f64-55a5-430e-b36c-2406752d08eb)
 <div align="center">
+
 
 ### 🛠 &nbsp;Tech Stack
 
