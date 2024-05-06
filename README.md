@@ -38,8 +38,7 @@ Now I'm addicted to code and I can't stop learning more and more, does that even
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-  <a href="https://togostyle.github.io/PersonalWebsite/"><img src="https://img.shields.io/badge/Personal_Web-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Web"></a>
-  &nbsp;
+ 
   <a href="https://www.linkedin.com/in/tonivieirarubio-informatico/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:tvr9869@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
