@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/e396416c-0a39-455f-811e-e80c849c0922" alt="Banner" style="max-width: 90%; height: auto; margin: 100 auto; display: block;" />
+  <img src="https://github.com/user-attachments/assets/e396416c-0a39-455f-811e-e80c849c0922" alt="Banner" style="width: 80%;" />
 </div>
 
 
