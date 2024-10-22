@@ -22,13 +22,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-[![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=flat&logo=adobe&logoColor=white)&nbsp;
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen?style=flat&logo=springboot)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen?style=flat&logo=springboot)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
