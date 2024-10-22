@@ -4,7 +4,8 @@
 
 <p align="center">I am a passionate Full Stack developer with experience in frontend and backend technologies. My mission is to revolutionize the digital world by merging innovation with intuitive and attractive user interfaces, as well as robust backend solutions.</p>
 
-![Banner (1)](https://github.com/user-attachments/assets/32bb60c9-3f23-4b45-9875-4a4ee7c7ce0b)
+![Banner](https://github.com/user-attachments/assets/e396416c-0a39-455f-811e-e80c849c0922)
+
 
 
 <div align="center">
