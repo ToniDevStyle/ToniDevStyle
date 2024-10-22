@@ -6,7 +6,7 @@
   I am a passionate Full Stack developer with experience in frontend and backend technologies. My mission is to revolutionize the digital world by merging innovation with intuitive and attractive user interfaces, as well as robust backend solutions.
 </p>
 
-<div style="display: flex; margin-left: 100px;">
+<div style="display: align="center";">
   <img src="https://github.com/user-attachments/assets/e396416c-0a39-455f-811e-e80c849c0922" alt="Banner"" />
 </div>
 
